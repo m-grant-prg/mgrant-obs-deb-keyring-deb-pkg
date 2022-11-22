@@ -1,0 +1,65 @@
+mgrant-obs-deb-keyring (1.0.2-deb9u5) UNRELEASED; urgency=medium
+
+  * Update watch file to use mode=git.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 22 Nov 2022 14:30:55 +0000
+
+mgrant-obs-deb-keyring (1.0.2-deb9u4) stretch; urgency=medium
+
+  * Revert - Remove keyring before installation.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 30 Jan 2022 10:04:48 +0000
+
+mgrant-obs-deb-keyring (1.0.2-deb9u3) stretch; urgency=medium
+
+  * Remove keyring before installation.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 28 Jan 2022 15:47:48 +0000
+
+mgrant-obs-deb-keyring (1.0.2-deb9u2) stretch; urgency=medium
+
+  * Correct architecture from any to all.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 27 Jan 2022 10:49:48 +0000
+
+mgrant-obs-deb-keyring (1.0.2-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 26 Jan 2022 14:59:48 +0000
+
+mgrant-obs-deb-keyring (1.0.1-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 25 Jan 2022 15:53:15 +0000
+
+mgrant-obs-deb-keyring (0.0.3-deb9u2) stretch; urgency=medium
+
+  * Correct debhelper version.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 17 Jan 2022 15:08:36 +0000
+
+mgrant-obs-deb-keyring (0.0.3-deb9u1) stretch; urgency=medium
+
+  * Create new stretch branch.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 17 Jan 2022 11:00:36 +0000
+
+mgrant-obs-deb-keyring (0.0.3-deb11u1) bullseye; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 17 Jan 2022 09:34:36 +0000
+
+mgrant-obs-deb-keyring (0.0.2-deb11u1) bullseye; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 17 Jan 2022 09:17:53 +0000
+
+mgrant-obs-deb-keyring (0.0.1-deb11u1) bullseye; urgency=medium
+
+  * Initial release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 16 Jan 2022 10:58:53 +0000
