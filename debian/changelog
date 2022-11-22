@@ -1,8 +1,8 @@
-mgrant-obs-deb-keyring (1.0.2-deb11u5) UNRELEASED; urgency=medium
+mgrant-obs-deb-keyring (1.0.2-deb11u5) bullseye; urgency=medium
 
   * Update watch file to use mode=git.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Tue, 22 Nov 2022 10:37:22 +0000
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 22 Nov 2022 10:38:59 +0000
 
 mgrant-obs-deb-keyring (1.0.2-deb11u4) bullseye; urgency=medium
 
