@@ -1,3 +1,9 @@
+mgrant-obs-deb-keyring (1.0.2+deb10u6) buster; urgency=medium
+
+  * Change to Debian native format.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 14 Dec 2022 14:04:00 +0000
+
 mgrant-obs-deb-keyring (1.0.2-deb10u5) buster; urgency=medium
 
   * Update watch file to use mode=git.
