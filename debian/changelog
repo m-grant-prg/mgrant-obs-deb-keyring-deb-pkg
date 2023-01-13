@@ -1,6 +1,7 @@
 mgrant-obs-deb-keyring (1.0.2+rc1+deb11u1) UNRELEASED; urgency=medium
 
   * Merge new upstream development release.
+  * Update Copyright for 2023.
 
  -- Mark Grant <m.grant.prg@gmail.com>  Fri, 13 Jan 2023 09:30:08 +0000
 
