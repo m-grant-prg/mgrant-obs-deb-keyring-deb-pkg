@@ -1,10 +1,10 @@
-mgrant-obs-deb-keyring (1.0.3+deb9u1) UNRELEASED; urgency=medium
+mgrant-obs-deb-keyring (1.0.3+deb9u1) stretch; urgency=medium
 
   * Merge new upstream release.
   * Update Copyright for 2023.
   * Update gitignore to v1.0.10.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Sun, 15 Jan 2023 15:23:33 +0000
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 15 Jan 2023 15:27:38 +0000
 
 mgrant-obs-deb-keyring (1.0.2+deb9u6) stretch; urgency=medium
 
