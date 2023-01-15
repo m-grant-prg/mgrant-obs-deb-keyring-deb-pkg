@@ -2,6 +2,7 @@ mgrant-obs-deb-keyring (1.0.3+deb10u1) UNRELEASED; urgency=medium
 
   * Merge new upstream release.
   * Update Copyright for 2023.
+  * Update gitignore to v1.0.10
 
  -- Mark Grant <m.grant.prg@gmail.com>  Sun, 15 Jan 2023 15:09:31 +0000
 
