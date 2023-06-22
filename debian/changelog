@@ -1,3 +1,9 @@
+mgrant-obs-deb-keyring (1.0.4~rc1+deb13u1) UNRELEASED; urgency=medium
+
+  * Create testing branch.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 22 Jun 2023 09:42:29 +0100
+
 mgrant-obs-deb-keyring (1.0.4~rc1+deb11u1) bullseye; urgency=medium
 
   * Merge new upstream development release.
