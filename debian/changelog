@@ -1,14 +1,8 @@
-mgrant-obs-deb-keyring (1.0.4~rc1+deb13u2) testing; urgency=medium
+mgrant-obs-deb-keyring (1.0.4~rc1+deb12u1) UNRELEASED; urgency=medium
 
-  * Correct release name.
+  * Create bookworm branch.
 
  -- Mark Grant <m.grant.prg@gmail.com>  Thu, 22 Jun 2023 10:16:43 +0100
-
-mgrant-obs-deb-keyring (1.0.4~rc1+deb13u1) testing; urgency=medium
-
-  * Create testing branch.
-
- -- Mark Grant <m.grant.prg@gmail.com>  Thu, 22 Jun 2023 09:43:54 +0100
 
 mgrant-obs-deb-keyring (1.0.4~rc1+deb11u1) bullseye; urgency=medium
 
