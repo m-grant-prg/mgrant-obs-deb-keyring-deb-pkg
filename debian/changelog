@@ -1,8 +1,8 @@
-mgrant-obs-deb-keyring (1.0.4+deb13u1) UNRELEASED; urgency=medium
+mgrant-obs-deb-keyring (1.0.4+deb13u1) testing; urgency=medium
 
   * Merge new upstream release.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Thu, 22 Jun 2023 13:50:25 +0100
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 22 Jun 2023 13:51:49 +0100
 
 mgrant-obs-deb-keyring (1.0.4~rc1+deb13u2) testing; urgency=medium
 
