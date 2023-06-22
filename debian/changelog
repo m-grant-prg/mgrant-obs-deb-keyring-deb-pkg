@@ -1,9 +1,9 @@
-mgrant-obs-deb-keyring (1.0.4+deb9u1) UNRELEASED; urgency=medium
+mgrant-obs-deb-keyring (1.0.4+deb9u1) stretch; urgency=medium
 
   * Merge new upstream release.
   * Update watch file to support ~.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Thu, 22 Jun 2023 15:02:17 +0100
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 22 Jun 2023 15:05:07 +0100
 
 mgrant-obs-deb-keyring (1.0.3+deb9u1) stretch; urgency=medium
 
