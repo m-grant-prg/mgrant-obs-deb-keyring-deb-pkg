@@ -1,8 +1,8 @@
-mgrant-obs-deb-keyring (1.0.4~rc1+deb12u1) UNRELEASED; urgency=medium
+mgrant-obs-deb-keyring (1.0.4~rc1+deb12u1) bookworm; urgency=medium
 
   * Create bookworm branch.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Thu, 22 Jun 2023 10:16:43 +0100
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 22 Jun 2023 10:29:18 +0100
 
 mgrant-obs-deb-keyring (1.0.4~rc1+deb11u1) bullseye; urgency=medium
 
