@@ -1,3 +1,10 @@
+mgrant-obs-deb-keyring (1.0.5+deb13u1) trixie; urgency=medium
+
+  * New upstream release
+  * Update Copyrights for 2024
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 16 Jan 2024 09:45:37 +0000
+
 mgrant-obs-deb-keyring (1.0.4+deb13u1) testing; urgency=medium
 
   * Merge new upstream release.
