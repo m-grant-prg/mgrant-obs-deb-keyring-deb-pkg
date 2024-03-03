@@ -2,8 +2,7 @@ Source: mgrant-obs-deb-keyring
 Section: misc
 Priority: extra
 Maintainer: Mark Grant <m.grant.prg@gmail.com>
-Build-Depends: debhelper-compat (= 13),
-	autoconf, automake
+Build-Depends: debhelper-compat (= 13)
 Standards-Version: 4.5.1
 Homepage: https://github.com/m-grant-prg/mgrant-obs-deb-keyring/wiki
 Vcs-Browser: https://github.com/m-grant-prg/mgrant-obs-deb-keyring
@@ -12,7 +11,7 @@ Rules-Requires-Root: no
 
 Package: mgrant-obs-deb-keyring
 Architecture: all
-Depends: bash, ${shlibs:Depends}, ${misc:Depends}
+Depends: ${misc:Depends}
 Description: Signing keyring for m-grant-prg OBS repos
  This package contains the signing keys for m-grant-prg's repositories at the
  openSUSE Build Service. This keyring is installed in /etc/apt/trusted.gpg.d/
