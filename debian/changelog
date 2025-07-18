@@ -1,0 +1,123 @@
+mgrant-obs-deb-keyring (1.0.5+deb13u2) trixie; urgency=medium
+
+  * Update editorconfig to v1.0.6
+  * Update gitattributes to v1.0.5
+  * Update gitignore to v1.0.12
+  * Update mailmap to v1.0.4
+  * Remove [Build-]Depends on essential packages
+  * Add lintian override for watch file
+  * Silence lintian changelog-file-missing-explicit-entry warning
+  * Update Copyright for 2025
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 18 Jul 2025 10:22:55 +0100
+
+mgrant-obs-deb-keyring (1.0.5+deb13u1) trixie; urgency=medium
+
+  * New upstream release
+  * Update Copyrights for 2024
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 16 Jan 2024 09:45:37 +0000
+
+mgrant-obs-deb-keyring (1.0.4+deb13u1) testing; urgency=medium
+
+  * Merge new upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 22 Jun 2023 13:51:49 +0100
+
+mgrant-obs-deb-keyring (1.0.4~rc1+deb13u2) testing; urgency=medium
+
+  * Correct release name.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 22 Jun 2023 10:16:43 +0100
+
+mgrant-obs-deb-keyring (1.0.4~rc1+deb13u1) testing; urgency=medium
+
+  * Create testing branch.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 22 Jun 2023 09:43:54 +0100
+
+mgrant-obs-deb-keyring (1.0.4~rc1+deb11u1) bullseye; urgency=medium
+
+  * Merge new upstream development release.
+  * Use new watch file format supporting ~.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 22 Jun 2023 09:22:15 +0100
+
+mgrant-obs-deb-keyring (1.0.3+deb11u1) bullseye; urgency=medium
+
+  * Merge new upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 15 Jan 2023 14:56:49 +0000
+
+mgrant-obs-deb-keyring (1.0.2+rc1+deb11u2) bullseye; urgency=medium
+
+  * Update gitignore file.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 13 Jan 2023 10:17:00 +0000
+
+mgrant-obs-deb-keyring (1.0.2+rc1+deb11u1) bullseye; urgency=medium
+
+  * Merge new upstream development release.
+  * Update Copyright for 2023.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 13 Jan 2023 09:34:06 +0000
+
+mgrant-obs-deb-keyring (1.0.2+deb11u6) bullseye; urgency=medium
+
+  * Change to Debian native format.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 10 Dec 2022 11:00:35 +0000
+
+mgrant-obs-deb-keyring (1.0.2-deb11u5) bullseye; urgency=medium
+
+  * Update watch file to use mode=git.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 22 Nov 2022 10:38:59 +0000
+
+mgrant-obs-deb-keyring (1.0.2-deb11u4) bullseye; urgency=medium
+
+  * Revert - Remove keyring before installation.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 30 Jan 2022 09:23:47 +0000
+
+mgrant-obs-deb-keyring (1.0.2-deb11u3) bullseye; urgency=medium
+
+  * Remove keyring before installation.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 28 Jan 2022 14:00:47 +0000
+
+mgrant-obs-deb-keyring (1.0.2-deb11u2) bullseye; urgency=medium
+
+  * Correct architecture from any to all.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 27 Jan 2022 10:42:47 +0000
+
+mgrant-obs-deb-keyring (1.0.2-deb11u1) bullseye; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 26 Jan 2022 14:54:47 +0000
+
+mgrant-obs-deb-keyring (1.0.1-deb11u1) bullseye; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 25 Jan 2022 15:46:07 +0000
+
+mgrant-obs-deb-keyring (0.0.3-deb11u1) bullseye; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 17 Jan 2022 09:34:36 +0000
+
+mgrant-obs-deb-keyring (0.0.2-deb11u1) bullseye; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 17 Jan 2022 09:17:53 +0000
+
+mgrant-obs-deb-keyring (0.0.1-deb11u1) bullseye; urgency=medium
+
+  * Initial release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 16 Jan 2022 10:58:53 +0000
