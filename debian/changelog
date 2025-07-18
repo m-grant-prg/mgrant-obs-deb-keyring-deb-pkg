@@ -1,3 +1,16 @@
+mgrant-obs-deb-keyring (1.0.5+deb9u2) stretch; urgency=medium
+
+  * Update editorconfig to v1.0.6
+  * Update gitattributes to v1.0.5
+  * Update gitignore to v1.0.12
+  * Update mailmap to v1.0.4
+  * Remove [Build-]Depends on essential packages
+  * Add lintian override for watch file
+  * Silence lintian changelog-file-missing-explicit-entry warning
+  * Update Copyright for 2025
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 18 Jul 2025 10:33:12 +0100
+
 mgrant-obs-deb-keyring (1.0.5+deb9u1) stretch; urgency=medium
 
   * New upstream release
