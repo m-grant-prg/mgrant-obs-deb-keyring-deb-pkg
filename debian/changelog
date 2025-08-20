@@ -1,3 +1,9 @@
+mgrant-obs-deb-keyring (1.0.7+deb11u1) bullseye; urgency=medium
+
+  * New upstream release
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 20 Aug 2025 15:57:31 +0100
+
 mgrant-obs-deb-keyring (1.0.6+deb11u1) bullseye; urgency=medium
 
   * New upstream release
