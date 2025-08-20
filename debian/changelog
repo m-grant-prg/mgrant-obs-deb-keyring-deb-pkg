@@ -1,3 +1,9 @@
+mgrant-obs-deb-keyring (1.0.7+deb9u1) stretch; urgency=medium
+
+  * New upstream release
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 20 Aug 2025 16:04:04 +0100
+
 mgrant-obs-deb-keyring (1.0.6+deb9u1) stretch; urgency=medium
 
   * New upstream release
