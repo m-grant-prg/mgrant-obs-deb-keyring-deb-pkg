@@ -1,3 +1,9 @@
+mgrant-obs-deb-keyring (1.0.8~rc1+deb12u1) bookworm; urgency=medium
+
+  * New upstream development release
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 25 Sep 2025 14:54:48 +0100
+
 mgrant-obs-deb-keyring (1.0.7+deb12u1) bookworm; urgency=medium
 
   * New upstream release
