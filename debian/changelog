@@ -1,3 +1,10 @@
+mgrant-obs-deb-keyring (1.0.9+deb13u1) trixie; urgency=medium
+
+  * Update Copyrights for 2026
+  * New upstream release
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 21 Jul 2026 08:56:48 +0100
+
 mgrant-obs-deb-keyring (1.0.8+deb13u1) trixie; urgency=medium
 
   * New upstream release
