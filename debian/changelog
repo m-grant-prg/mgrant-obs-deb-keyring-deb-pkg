@@ -1,3 +1,10 @@
+mgrant-obs-deb-keyring (1.0.9+deb12u1) bookworm; urgency=medium
+
+  * Update Copyrights for 2026
+  * New upstream release
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 21 Jul 2026 09:05:51 +0100
+
 mgrant-obs-deb-keyring (1.0.8+deb12u1) bookworm; urgency=medium
 
   * New upstream release
