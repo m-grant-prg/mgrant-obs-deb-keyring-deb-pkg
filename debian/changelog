@@ -1,3 +1,10 @@
+mgrant-obs-deb-keyring (1.0.9+deb14u1) forky; urgency=medium
+
+  * Update Copyrights for 2026
+  * New upstream release
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 21 Jul 2026 09:01:44 +0100
+
 mgrant-obs-deb-keyring (1.0.8+deb14u1) forky; urgency=medium
 
   * New upstream release
